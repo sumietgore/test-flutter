@@ -1,0 +1,15 @@
+{
+    "name": "Flutter",
+    // "image":"flutter-elinux:latest",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "streetsidesoftware.code-spell-checker"
+            ]
+        }
+    }
+}
